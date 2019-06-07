@@ -9,7 +9,7 @@ This comes with a already created file named Students that has the binary file w
 OPERATIONS SUPPORTED: 
 
                       Create: Creates a table with the specified columns1(name), ...., columnN(name).                      
-                      Load: Loads a previously created table for use in the program(NOTE: That all table must be loaded before they can be                             used) all tables are automatically loaded into the program after they are created.
+                      Load: Loads a previously created table for use in the program(NOTE: That all table must be loaded before they can be used) all tables are automatically loaded into the program after they are created.
                       Print: Prints all the contents of the table on the screen.
                       End: Closes the program.
                       Insert: Inserts an item into the table.
